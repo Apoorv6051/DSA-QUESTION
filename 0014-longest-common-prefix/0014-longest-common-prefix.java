@@ -1,6 +1,8 @@
-class Solution {
+
+  import java.util.Arrays;
+   class Solution {
     public String longestCommonPrefix(String[] strs) {
-        if (strs == null || strs.length == 0) {
+       /*  if (strs == null || strs.length == 0) {
             return "";
         }
 
@@ -16,6 +18,29 @@ class Solution {
             }
         }
 
-        return first;
+        return first; */
+
+        // sorting the array
+     
+
+        if (strs == null || strs.length == 0) {
+            return "";
+        }
+
+        // sorting the array
+        Arrays.sort(strs);
+        String s1 = strs[0];
+        String s2 = strs[strs.length - 1];
+        int indx = 0;
+
+        while (indx < s1.length() && indx < s2.length()) {
+            if (s1.charAt(indx) == s2.charAt(indx)) {
+                indx++;
+            } else {
+                break;
+            }
+        }
+
+        return indx == 0 ? "" : s1.substring(0, indx);
     }
 }
