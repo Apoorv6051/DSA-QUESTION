@@ -6,6 +6,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0015-3sum) |
 | [0238-product-of-array-except-self](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -20,4 +21,12 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
