@@ -35,4 +35,20 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
