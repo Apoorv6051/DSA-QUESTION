@@ -9,6 +9,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0014-longest-common-prefix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0283-move-zeroes) |
 ## Prefix Sum
@@ -43,6 +44,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
 | [1025-divisor-game](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
