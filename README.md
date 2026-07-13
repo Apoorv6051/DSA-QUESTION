@@ -10,6 +10,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0015-3sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0283-move-zeroes) |
 ## Prefix Sum
@@ -67,8 +68,13 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
