@@ -13,6 +13,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0283-move-zeroes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -24,11 +25,13 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0283-move-zeroes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0056-merge-intervals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -49,6 +52,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
 | [1025-divisor-game](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +86,9 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
