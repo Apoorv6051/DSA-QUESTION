@@ -97,4 +97,8 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
