@@ -42,6 +42,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0058-length-of-last-word](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0520-detect-capital) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3136-valid-word](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3136-valid-word) |
 ## Trie
 |  |
@@ -104,4 +105,16 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0181-employees-earning-more-than-their-managers) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
