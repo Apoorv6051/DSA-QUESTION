@@ -44,6 +44,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0520-detect-capital](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3136-valid-word](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3136-valid-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
@@ -117,4 +118,8 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
