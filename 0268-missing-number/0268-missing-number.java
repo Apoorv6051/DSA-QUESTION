@@ -15,7 +15,7 @@ class Solution {
             }
         }
          return c; */
-         int n=nums.length;
+        /*  int n=nums.length;
          int sum =0;
          
 
@@ -26,6 +26,16 @@ class Solution {
             
             
          }
-         return (a-sum);
+         return (a-sum); */ 
+         // solving the same question with sorting technique
+          int a = nums.length;  // default: if no mismatch found, missing number is n itself
+        Arrays.sort(nums);
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != i) {
+                a = i;
+                break;  
+            }
+        }
+        return a;
     }
 }
