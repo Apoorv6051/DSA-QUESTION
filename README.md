@@ -60,6 +60,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
