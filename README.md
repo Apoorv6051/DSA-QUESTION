@@ -66,6 +66,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -135,6 +136,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Binary Search
 |  |
