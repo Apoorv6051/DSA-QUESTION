@@ -22,6 +22,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0860-lemonade-change](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -49,6 +50,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0455-assign-cookies](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -107,6 +109,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0003-longest-substring-without-repeating-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
