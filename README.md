@@ -24,6 +24,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -31,6 +32,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
