@@ -70,6 +70,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0125-valid-palindrome](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3136-valid-word) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -117,11 +118,13 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0169-majority-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
 |  |
 | ------- |
