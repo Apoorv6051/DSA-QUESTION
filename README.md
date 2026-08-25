@@ -6,6 +6,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0014-longest-common-prefix) |
@@ -116,6 +117,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0169-majority-element) |
