@@ -16,6 +16,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -88,6 +90,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0007-reverse-integer](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1025-divisor-game) |
