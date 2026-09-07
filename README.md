@@ -18,6 +18,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0015-3sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0455-assign-cookies) |
@@ -209,6 +211,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0324-wiggle-sort-ii) |
 ## Counting
 |  |
@@ -221,5 +224,10 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0324-wiggle-sort-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
