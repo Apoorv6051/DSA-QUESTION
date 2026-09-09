@@ -1,27 +1,20 @@
-
-
 class Solution {
     public int lastStoneWeight(int[] stones) {
-        List<Integer> arr = new ArrayList<>();
-        
-        for (int num : stones) {
-            arr.add(num); // thsi is to add all element of array into arraylist
+       PriorityQueue<Integer> maxHeap=new PriorityQueue<>(Collections.reverseOrder());
+        for(int st: stones){
+            maxHeap.add(st);
+
         }
-        
-        Collections.sort(arr); //sorting has been done in ascendind order
-        
-        while (arr.size() > 1) {
-            int y = arr.remove(arr.size() - 1); // this will remove the last index and put in y
-            int x = arr.remove(arr.size() - 1); // this will remove the last index and put it in x
-            
-            int diff = y - x;
-            
-            if (diff > 0) {
-                arr.add(diff);
-                Collections.sort(arr);
+        while(maxHeap.size()>=2){
+            int y =maxHeap.poll();
+            int x = maxHeap.poll();
+            if(x==y){
+                continue;
+            }
+            if(y!=x){
+                maxHeap.add(y-x);
             }
         }
-        
-        return arr.isEmpty() ? 0 : arr.get(0);
+        return maxHeap.size()==1 ? maxHeap.peek():0;
     }
 }
