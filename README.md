@@ -216,6 +216,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
@@ -237,11 +238,13 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1046-last-stone-weight) |
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Tree
 |  |
@@ -255,4 +258,12 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
