@@ -28,6 +28,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0628-maximum-product-of-three-numbers](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1046-last-stone-weight) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -164,6 +165,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
@@ -266,4 +268,8 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
