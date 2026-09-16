@@ -13,6 +13,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0015-3sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
@@ -166,6 +167,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -272,6 +274,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
