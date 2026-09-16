@@ -27,6 +27,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0324-wiggle-sort-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0860-lemonade-change) |
@@ -170,6 +171,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -278,6 +280,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | ------- |
 | [0048-rotate-image](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
