@@ -13,6 +13,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0015-3sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
@@ -104,6 +105,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0189-rotate-array) |
@@ -274,6 +276,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1572-matrix-diagonal-sum) |
