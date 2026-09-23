@@ -35,6 +35,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1046-last-stone-weight) |
 | [1572-matrix-diagonal-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -290,6 +291,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0498-diagonal-traverse](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Depth-First Search
 |  |
 | ------- |
