@@ -198,6 +198,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0860-lemonade-change](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
@@ -232,6 +233,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0169-majority-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0324-wiggle-sort-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -261,14 +263,17 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -285,4 +290,8 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0498-diagonal-traverse](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1572-matrix-diagonal-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
