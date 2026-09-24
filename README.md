@@ -266,6 +266,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0102-binary-tree-level-order-traversal](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -278,6 +279,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0102-binary-tree-level-order-traversal](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
@@ -299,10 +301,12 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 ## Depth-First Search
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
 <!---LeetCode Topics End-->
