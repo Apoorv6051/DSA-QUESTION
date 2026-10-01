@@ -270,6 +270,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1609-even-odd-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -285,6 +286,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1609-even-odd-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -317,4 +319,5 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0199-binary-tree-right-side-view](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1609-even-odd-tree) |
 <!---LeetCode Topics End-->
