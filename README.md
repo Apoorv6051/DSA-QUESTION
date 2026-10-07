@@ -42,6 +42,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [2574-left-and-right-sum-differences](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3731-find-missing-elements) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -178,6 +179,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3498-reverse-degree-of-a-string) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
@@ -191,6 +193,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3834-merge-adjacent-equal-elements) |
 ## Greedy
 |  |
 | ------- |
