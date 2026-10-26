@@ -97,6 +97,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0205-isomorphic-strings](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0205-isomorphic-strings) |
 | [0520-detect-capital](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
