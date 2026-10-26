@@ -63,6 +63,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0455-assign-cookies) |
@@ -94,6 +95,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0205-isomorphic-strings) |
 | [0520-detect-capital](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
