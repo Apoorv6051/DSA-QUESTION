@@ -94,6 +94,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0205-isomorphic-strings) |
 | [0520-detect-capital](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2390-removing-stars-from-a-string) |
@@ -154,6 +155,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0003-longest-substring-without-repeating-characters](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
