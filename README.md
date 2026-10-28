@@ -285,6 +285,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
@@ -293,6 +294,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -302,6 +304,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
@@ -328,6 +331,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1382-balance-a-binary-search-tree) |
@@ -338,6 +342,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0513-find-bottom-left-tree-value) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1609-even-odd-tree) |
 ## DP on Trees
