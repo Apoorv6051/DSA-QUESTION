@@ -29,6 +29,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0485-max-consecutive-ones](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
@@ -233,6 +234,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0004-median-of-two-sorted-arrays](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
