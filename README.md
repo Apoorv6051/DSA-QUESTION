@@ -13,6 +13,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0015-3sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0056-merge-intervals) |
@@ -233,6 +234,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0744-find-smallest-letter-greater-than-target) |
