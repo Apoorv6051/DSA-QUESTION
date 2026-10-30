@@ -1,11 +1,16 @@
 class Solution {
     public int findMin(int[] nums) {
-        int mini = Integer.MAX_VALUE;
-        for(int i =0; i <nums.length;i++){
-            mini= Math.min(nums[i],mini);
-
-
+        // Applying binary search now
+        int end= nums.length-1;
+        int start =0;
+        while(start < end){
+            int mid =start +(end- start)/2;
+            if(nums[mid]> nums[end]){
+                start = mid+1;
+            }else{
+                end = mid;
+            }
         }
-        return mini;
+        return nums[start];
     }
 }
