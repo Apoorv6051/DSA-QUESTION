@@ -12,6 +12,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0014-longest-common-prefix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0048-rotate-image) |
@@ -235,6 +236,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
