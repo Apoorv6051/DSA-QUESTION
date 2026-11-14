@@ -31,6 +31,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0455-assign-cookies](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -241,6 +242,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0035-search-insert-position](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1539-kth-missing-positive-number) |
