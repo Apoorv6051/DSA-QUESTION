@@ -36,6 +36,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0628-maximum-product-of-three-numbers](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -247,6 +248,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0540-single-element-in-a-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
@@ -368,4 +370,8 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
