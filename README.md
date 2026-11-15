@@ -21,6 +21,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0066-plus-one](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
@@ -241,6 +242,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0704-binary-search) |
