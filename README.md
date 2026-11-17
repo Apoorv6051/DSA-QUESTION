@@ -40,6 +40,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1046-last-stone-weight) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -247,6 +248,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0540-single-element-in-a-sorted-array](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
@@ -341,6 +343,7 @@ This repo is basically my DSA journal. Every problem I solve on  LeetCode, GFG o
 | [0054-spiral-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Depth-First Search
