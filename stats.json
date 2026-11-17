@@ -471,23 +471,25 @@
     "solved": 90
   },
   "syncedProblems": {
-    "LeetCode_Sqrt(x)": true
+    "LeetCode_Sqrt(x)": true,
+    "LeetCode_Valid_Perfect_Square": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Sqrt(x)"
+    "Valid Perfect Square"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-11-17",
-  "maxStreak": 1,
+  "lastSyncDate": "2026-11-18",
+  "maxStreak": 2,
   "activityHistory": {
-    "2026-11-17": 1
+    "2026-11-17": 1,
+    "2026-11-18": 1
   }
 }
