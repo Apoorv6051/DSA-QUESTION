@@ -1,21 +1,30 @@
 class Solution {
-    public int climbStairs(int n) {
-        if(n<3) return n;
-        int a=1;
-        int b=2;
-        int count=2;
-        return _fibonacci(n,count,a,b);
-    }
-    private int _fibonacci(int n,int count, int a, int b) {
-        if(count!=n) {
-            int temp=a;
-            a=b;
-            b=temp+b;
-            ++count;
-            int value=_fibonacci(n,count,a,b);
-            if(value==0) return b;
-            else return value;
+    // int[] memo;
+    // private int solve(int n){
+    //     if(n == 0 || n == 1){
+    //         return memo[n]=1;
+    //     }
+    //     if(memo[n] != -1) return memo[n];
+
+    //     return memo[n]= solve(n-1) + solve(n-2);
+    // }
+    // public int climbStairs(int n) {
+        
+    //     memo = new int[n+1];
+    //     Arrays.fill(memo,-1) ;
+    //     return solve(n);
+        
+    // }
+            // now applying bottom up approach
+            // applying dp
+     public int climbStairs(int n) {
+        int[] dp = new int[n+1];
+        dp[0] = 1;
+        dp[1] =1;
+
+        for(int i =2;i <=n ; i++){
+            dp[i] = dp[i-1]+ dp[i-2];
         }
-        return 0;
+        return dp[n];
     }
 }
