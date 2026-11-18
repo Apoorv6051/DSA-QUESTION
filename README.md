@@ -26,3 +26,4 @@
 | 3 | [Nth Root of M](./GeeksForGeeks/Medium/Nth%20Root%20of%20M) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Medium | 18 Nov 2026 | 10:36 am |
 | 4 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 18 Nov 2026 | 11:28 am |
 | 5 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 18 Nov 2026 | 11:56 am |
+| 6 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 18 Nov 2026 | 12:30 pm |

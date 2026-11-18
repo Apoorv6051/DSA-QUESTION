@@ -475,12 +475,13 @@
     "LeetCode_Valid_Perfect_Square": true,
     "GeeksForGeeks_Nth_Root_of_M": true,
     "LeetCode_Two_Sum": true,
-    "LeetCode_Climbing_Stairs": true
+    "LeetCode_Climbing_Stairs": true,
+    "LeetCode_House_Robber": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
@@ -488,14 +489,15 @@
     "Valid Perfect Square",
     "Nth Root of M",
     "Two Sum",
-    "Climbing Stairs"
+    "Climbing Stairs",
+    "House Robber"
   ],
   "currentStreak": 2,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-11-18",
   "maxStreak": 2,
   "activityHistory": {
     "2026-11-17": 1,
-    "2026-11-18": 4
+    "2026-11-18": 5
   }
 }
