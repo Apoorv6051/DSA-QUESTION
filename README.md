@@ -14,3 +14,4 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
+| 3 | [Nth Root of M](./GeeksForGeeks/Medium/Nth%20Root%20of%20M) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Medium | 18 Nov 2026 | 10:36 am |

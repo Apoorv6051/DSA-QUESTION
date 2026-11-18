@@ -472,24 +472,26 @@
   },
   "syncedProblems": {
     "LeetCode_Sqrt(x)": true,
-    "LeetCode_Valid_Perfect_Square": true
+    "LeetCode_Valid_Perfect_Square": true,
+    "GeeksForGeeks_Nth_Root_of_M": true
   },
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Valid Perfect Square"
+    "Valid Perfect Square",
+    "Nth Root of M"
   ],
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-11-18",
   "maxStreak": 2,
   "activityHistory": {
     "2026-11-17": 1,
-    "2026-11-18": 1
+    "2026-11-18": 2
   }
 }
