@@ -474,11 +474,12 @@
     "LeetCode_Sqrt(x)": true,
     "LeetCode_Valid_Perfect_Square": true,
     "GeeksForGeeks_Nth_Root_of_M": true,
-    "LeetCode_Two_Sum": true
+    "LeetCode_Two_Sum": true,
+    "LeetCode_Climbing_Stairs": true
   },
-  "totalSolved": 4,
+  "totalSolved": 5,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -486,14 +487,15 @@
   "todayProblems": [
     "Valid Perfect Square",
     "Nth Root of M",
-    "Two Sum"
+    "Two Sum",
+    "Climbing Stairs"
   ],
   "currentStreak": 2,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-11-18",
   "maxStreak": 2,
   "activityHistory": {
     "2026-11-17": 1,
-    "2026-11-18": 3
+    "2026-11-18": 4
   }
 }
