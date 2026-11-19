@@ -19,6 +19,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0198-house-robber) |
+| [1143-longest-common-subsequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -27,6 +28,14 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0198-house-robber) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
 | 3 | [Nth Root of M](./GeeksForGeeks/Medium/Nth%20Root%20of%20M) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Medium | 18 Nov 2026 | 10:36 am |
 | 4 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 18 Nov 2026 | 11:28 am |
