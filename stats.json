@@ -489,26 +489,26 @@
     "GeeksForGeeks_0_-_1_Knapsack_Problem": true,
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
     "GeeksForGeeks_Factorial": true,
-    "LeetCode_Fibonacci_Number": true
+    "LeetCode_Fibonacci_Number": true,
+    "GeeksForGeeks_Reverse_Array": true
   },
-  "totalSolved": 4,
+  "totalSolved": 5,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 1,
     "hard": 0,
     "basic": 2
   },
   "todayProblems": [
-    "Sum of Natural Numbers",
-    "Factorial",
-    "Fibonacci Number"
+    "Reverse Array"
   ],
-  "currentStreak": 2,
-  "todayCount": 3,
-  "lastSyncDate": "2026-11-20",
-  "maxStreak": 2,
+  "currentStreak": 3,
+  "todayCount": 1,
+  "lastSyncDate": "2026-11-21",
+  "maxStreak": 3,
   "activityHistory": {
     "2026-11-19": 1,
-    "2026-11-20": 3
+    "2026-11-20": 3,
+    "2026-11-21": 1
   }
 }
