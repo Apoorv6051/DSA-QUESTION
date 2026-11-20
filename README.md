@@ -45,3 +45,4 @@
 | 8 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 19 Nov 2026 | 12:42 pm |
 | 9 | [Sum of Natural Numbers](./GeeksForGeeks/Basic/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | Basic | 20 Nov 2026 | 10:15 am |
 | 10 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 20 Nov 2026 | 10:22 am |
+| 11 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 20 Nov 2026 | 10:16 pm |
