@@ -490,25 +490,27 @@
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
     "GeeksForGeeks_Factorial": true,
     "LeetCode_Fibonacci_Number": true,
-    "GeeksForGeeks_Reverse_Array": true
+    "GeeksForGeeks_Reverse_Array": true,
+    "LeetCode_Pow(x,_n)": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 2
   },
   "todayProblems": [
-    "Reverse Array"
+    "Reverse Array",
+    "Pow(x, n)"
   ],
   "currentStreak": 3,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-11-21",
   "maxStreak": 3,
   "activityHistory": {
     "2026-11-19": 1,
     "2026-11-20": 3,
-    "2026-11-21": 1
+    "2026-11-21": 2
   }
 }
