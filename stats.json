@@ -491,26 +491,27 @@
     "GeeksForGeeks_Factorial": true,
     "LeetCode_Fibonacci_Number": true,
     "GeeksForGeeks_Reverse_Array": true,
-    "LeetCode_Pow(x,_n)": true
+    "LeetCode_Pow(x,_n)": true,
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
   },
-  "totalSolved": 6,
+  "totalSolved": 7,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 2
   },
   "todayProblems": [
-    "Reverse Array",
-    "Pow(x, n)"
+    "Longest Substring Without Repeating Characters"
   ],
-  "currentStreak": 3,
-  "todayCount": 2,
-  "lastSyncDate": "2026-11-21",
-  "maxStreak": 3,
+  "currentStreak": 4,
+  "todayCount": 1,
+  "lastSyncDate": "2026-11-22",
+  "maxStreak": 4,
   "activityHistory": {
     "2026-11-19": 1,
     "2026-11-20": 3,
-    "2026-11-21": 2
+    "2026-11-21": 2,
+    "2026-11-22": 1
   }
 }
