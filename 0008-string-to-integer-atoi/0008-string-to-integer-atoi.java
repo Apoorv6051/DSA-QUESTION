@@ -31,7 +31,7 @@ class Solution {
 
         if (sb.length()==0){
             return 0;
-        }
+        } 
         
         long res= stringToInt(sb.toString());
       
