@@ -494,21 +494,23 @@
     "LeetCode_Pow(x,_n)": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "GeeksForGeeks_Array_to_Linked_List": true,
-    "GeeksForGeeks_Length_of_Linked_List": true
+    "GeeksForGeeks_Length_of_Linked_List": true,
+    "GeeksForGeeks_Search_in_Linked_List": true
   },
-  "totalSolved": 9,
+  "totalSolved": 10,
   "difficultyCounts": {
     "easy": 3,
     "medium": 3,
     "hard": 0,
-    "basic": 3
+    "basic": 4
   },
   "todayProblems": [
     "Array to Linked List",
-    "Length of Linked List"
+    "Length of Linked List",
+    "Search in Linked List"
   ],
   "currentStreak": 5,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-11-23",
   "maxStreak": 5,
   "activityHistory": {
@@ -516,6 +518,6 @@
     "2026-11-20": 3,
     "2026-11-21": 2,
     "2026-11-22": 1,
-    "2026-11-23": 2
+    "2026-11-23": 3
   }
 }
