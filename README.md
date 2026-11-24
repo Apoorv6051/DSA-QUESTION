@@ -12,3 +12,19 @@
 | 10 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | Basic | 24 Nov 2026 | 02:31 pm |
 | 11 | [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) | [LeetCode](https://leetcode.com/problems/sort-an-array/) | Medium | 24 Nov 2026 | 02:38 pm |
 | 12 | [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/) | Easy | 24 Nov 2026 | 09:37 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0922-sort-array-by-parity-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0922-sort-array-by-parity-ii) |
+## Sorting
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/Apoorv6051/DSA-QUESTION/tree/master/0922-sort-array-by-parity-ii) |
+<!---LeetCode Topics End-->
