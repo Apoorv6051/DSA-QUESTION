@@ -8,3 +8,4 @@
 | 6 | [Search in Linked List](./GeeksForGeeks/Basic/Search%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | Basic | 23 Nov 2026 | 08:49 pm |
 | 7 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 23 Nov 2026 | 08:54 pm |
 | 8 | [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) | [LeetCode](https://leetcode.com/problems/count-good-numbers/) | Medium | 24 Nov 2026 | 10:47 am |
+| 9 | [Implement Atoi](./GeeksForGeeks/Medium/Implement%20Atoi) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-atoi/1) | Medium | 24 Nov 2026 | 02:11 pm |
