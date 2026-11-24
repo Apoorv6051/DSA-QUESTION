@@ -1,25 +1,33 @@
+// class Solution {
+//     public double myPow(double x, int n) {
+//         if(n < 0){
+//             x = 1/x;
+//             n = -n;
+//         }           this is the brute force which shows TLE
+//          double ans = 1.0;
+//         for(int i =0; i <n ; i++){
+//             ans *= x;
+//         }
+//         return ans;
+//     }
+// }
+
 class Solution {
-    public double myPow(double x, int n) {
 
-        long N = Math.abs((long)n);
-
-        double ans = 1;
-
-        while(N > 0) {
-
-            // If exponent is odd
-            if(N % 2 == 1) {
-                ans = ans * x;
-            }
-
-            // Square the base
-            x = x * x;
-
-            // Divide exponent by 2
-            N = N / 2;
+    double solve(double x, long n){
+        if(n == 0){
+            return 1.0;
         }
-
-        // Handle negative exponent
-        return n < 0 ? 1 / ans : ans;
+        if(n < 0){
+            return 1/solve(x, n * -1);
+        }
+        if(n % 2 ==0){
+            return solve(x*x , n/2);
+        }else{
+            return x * solve(x*x,(n-1)/2);
+        }
+    }
+    public double myPow(double x, int n) {
+        return solve(x,(long)n);
     }
 }

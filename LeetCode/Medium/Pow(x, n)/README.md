@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/powx-n/)
 
 ## Solved On
-21 Nov 2026 at 10:08 am
+25 Nov 2026 at 12:45 am
 
 <p>Implement <a href="http://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(x, n)</a>, which calculates <code>x</code> raised to the power <code>n</code> (i.e., <code>x<sup>n</sup></code>).</p>
 
