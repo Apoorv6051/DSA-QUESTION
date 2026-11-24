@@ -7,3 +7,4 @@
 | 5 | [Length of Linked List](./GeeksForGeeks/Basic/Length%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | Basic | 23 Nov 2026 | 05:43 pm |
 | 6 | [Search in Linked List](./GeeksForGeeks/Basic/Search%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | Basic | 23 Nov 2026 | 08:49 pm |
 | 7 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 23 Nov 2026 | 08:54 pm |
+| 8 | [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) | [LeetCode](https://leetcode.com/problems/count-good-numbers/) | Medium | 24 Nov 2026 | 10:47 am |
