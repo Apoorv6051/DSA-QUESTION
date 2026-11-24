@@ -499,22 +499,24 @@
     "LeetCode_String_to_Integer_(atoi)": true,
     "LeetCode_Count_Good_Numbers": true,
     "GeeksForGeeks_Implement_Atoi": true,
-    "GeeksForGeeks_Array_Search": true
+    "GeeksForGeeks_Array_Search": true,
+    "LeetCode_Sort_an_Array": true
   },
-  "totalSolved": 14,
+  "totalSolved": 15,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 5
   },
   "todayProblems": [
     "Count Good Numbers",
     "Implement Atoi",
-    "Array Search"
+    "Array Search",
+    "Sort an Array"
   ],
   "currentStreak": 6,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-11-24",
   "maxStreak": 6,
   "activityHistory": {
@@ -523,6 +525,6 @@
     "2026-11-21": 2,
     "2026-11-22": 1,
     "2026-11-23": 4,
-    "2026-11-24": 3
+    "2026-11-24": 4
   }
 }
