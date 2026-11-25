@@ -491,23 +491,25 @@
     "solved": 94
   },
   "syncedProblems": {
-    "LeetCode_Pow(x,_n)": true
+    "LeetCode_Pow(x,_n)": true,
+    "GeeksForGeeks_0_-_1_Knapsack_Problem": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "Pow(x, n)"
+    "Pow(x, n)",
+    "0 - 1 Knapsack Problem"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-11-25",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-11-25": 1
+    "2026-11-25": 2
   }
 }

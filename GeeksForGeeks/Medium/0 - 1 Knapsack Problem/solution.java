@@ -1,43 +1,48 @@
+
 class Solution {
-  
 
-          static int knapsackRec(int W, int[] val, int[] wt, int n, int[][] memo) {
+    // DP array for memoization
+    static int[][] dp = new int[1001][1001];
 
-                  // Base Case
-                  if (n == 0 || W == 0)
-                      return 0;
+    private int solve(int[] wt, int[] val, int W, int size) {
 
-                  // Check if we have previously calculated the same subproblem
-                  if (memo[n][W] != -1)
-                      return memo[n][W];
+        // Base condition
+        if (size == 0 || W == 0) {
+            return 0;
+        }
 
-                  int pick = 0;
+        // If already calculated, return stored answer
+        if (dp[size][W] != -1) {
+            return dp[size][W];
+        }
 
-                  // Pick nth item if it does not exceed the capacity of knapsack
-                  if (wt[n - 1] <= W)
-                      pick = val[n - 1] + knapsackRec(W - wt[n - 1], val, wt, n - 1, memo);
+        // If current item's weight is less than or equal to capacity
+        if (wt[size - 1] <= W) {
 
-                  // Don't pick the nth item
-                  int notPick = knapsackRec(W, val, wt, n - 1, memo);
+            // Two choices: Include or Exclude current item
+            return dp[size][W] = Math.max(
+                val[size - 1] + solve(wt, val, W - wt[size - 1], size - 1),
+                solve(wt, val, W, size - 1)
+            );
+        }
 
-                  // Store the result in memo[n][W] and return it
-                  return memo[n][W] = Math.max(pick, notPick);
-              }
+        // If current item cannot fit, exclude it
+        else {
+            return dp[size][W] = solve(wt, val, W, size - 1);
+        }
+    }
 
-              static int knapsack(int W, int[] val, int[] wt) {
-                  int n = val.length;
+    public int knapsack(int W, int val[], int wt[]) {
 
-                  // Memoization table to store the results
-                  int[][] memo = new int[n + 1][W + 1];
+        int size = wt.length;
 
-                  // Initialize memoization table with -1
-                  for (int i = 0; i <= n; i++) {
-                      for (int j = 0; j <= W; j++)
-                          memo[i][j] = -1;
-                  }
+        // Initialize DP array with -1
+        for (int i = 0; i <= size; i++) {
+            for (int j = 0; j <= W; j++) {
+                dp[i][j] = -1;
+            }
+        }
 
-                  return knapsackRec(W, val, wt, n, memo);
-       }
-
-     
+        return solve(wt, val, W, size);
+    }
 }
